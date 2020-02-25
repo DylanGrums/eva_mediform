@@ -1,0 +1,7 @@
+{
+  "name": "mediform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
